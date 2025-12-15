@@ -269,3 +269,7 @@ Dự án sinh viên — Vinamilk e-commerce platform.
 2. Chạy backend: `java -jar target/...jar` (hoặc `mvn spring-boot:run`)
 3. Chạy frontend: `npm run dev` (ở thư mục `vinamilk-frontend`)
 4. Mở trình duyệt: `http://localhost:5173`
+## Backend Notes
+
+The backend provides product, order, review, authentication, and order cancellation APIs.
+
